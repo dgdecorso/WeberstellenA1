@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(221, 214, 135);
+    margin: 20px;
+    padding: 20px;
+}
+h1, h2 {
+    color: #333;
+}
+.container {
+    max-width: 1200px;
+    margin: auto;
+    background: white;
+    padding: 200px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    background-color: beige;
+    font-size: larger;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+table, th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+ul, ol {
+    margin: 20px 0;
+}
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+.links {
+    margin-top: 20px;
+}
+.links a {
+    display: block;
+    margin: 5px 0;
+    color: #0073e6;
+    text-decoration: none;
+}
+.links a:hover {
+    text-decoration: underline;
+}
